@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1a1b21</color>
+    <color name="colorPrimaryDark">#1a1b21</color>
+    <color name="colorAccent">#FF7267</color>
+
+    <color name="frameBackground">#f11a181e</color>
+    <color name="frameBackgroundSelected">#f50d0c12</color>
+    <color name="dividerLineShadow">#eb0c1016</color>
+    <color name="dividerLine">#99797979</color>
+
+    <color name="musicControllerBackground">#1a1b21</color>
+
+    <color name="whiteTextColor">@android:color/white</color>
+</resources>
